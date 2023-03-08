@@ -23,8 +23,10 @@
   1.	[Agrupar Datos](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/14.AgruparDatos.html)   <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/14.Agrupacion_de_datos.xlsx"><i class="fas fa-file-excel"></i> </a>
   1. [Manejo de consultas](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/15.ManejoConsultas.html)  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/15.Propiedades_de_la_consulta.xlsx"><i class="fas fa-file-excel"></i> </a>
    1. [Trabajar con columnas (dividir, nuevas y personalizadas)](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/16.TrabajarConColumnas.html) <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/15.Propiedades_de_la_consulta.xlsx"><i class="fas fa-file-excel"></i> </a>
+
+<!-->
    1. [Casos prácticos](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/CasosPracticos123.html)  1 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.1.Caso_1.xlsx"><i class="fas fa-file-excel"></i> </a>, 2 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.2.Caso_2.xlsx"><i class="fas fa-file-excel"></i> </a> y 3 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.3.Caso_3.xlsx"><i class="fas fa-file-excel"></i> </a>
- 
+ -->
  
 <!--## Modelado de Datos (Power Pivot)
   Ejemplos basados en diario contable para obtener como resultado un Balance de comprobación.
@@ -33,10 +35,12 @@
   1.  <a target="_blank" href="https://support.office.com/es-es/article/crear-relaciones-en-la-vista-de-diagrama-de-power-pivot-12e00cb6-cb4d-469c-97ce-caa08349ad76">Relaciones entre Tablas</a>
   1.	[DAX, Columnas Calculadas y Medidas](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/DaxColumnasCalculadasMedidas.html)
 -->
+
+<!--
 ## Casos prácticos 
 [//]: <> (https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/CasosPracticos.html)
 *	CP 1: Importar diarios contables procedentes de diferentes fuentes y tratar las peculiaridades de los diferentes formatos de cada uno y obtener un Balance de sumas y saldos o comprobación de la entidad auditada. `diario 2016 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2016_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `diario 2017 sin aux.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/diario_2017_sin_aux.csv"><i class="far fa-file-archive"></i> </a>, `auxiliares_2016.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2016.csv"><i class="far fa-file-archive"></i> </a>, `diario auxiliares_2017.csv` <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/auxiliares_2017.csv"><i class="far fa-file-archive"></i> </a>
-<!--*	CP 2: Cuadre de Bases imponibles y cuotas entre el Libro diario y el Libro registro de IVA -->
+<!--*	CP 2: Cuadre de Bases imponibles y cuotas entre el Libro diario y el Libro registro de IVA 
 *	CP 2: Procedimiento para comprobar la coincidencia entre apertura y cierre de diarios contables.
 *	CP 3: Análisis del Ageing de las cuentas a cobrar. <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/CP_Demo_BICIS_ageing.xlsx"><i class="fas fa-file-excel"></i> </a>
 
