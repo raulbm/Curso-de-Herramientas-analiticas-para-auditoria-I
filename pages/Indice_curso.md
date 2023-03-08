@@ -24,7 +24,8 @@
   1. [Manejo de consultas](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/15.ManejoConsultas.html)  <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/15.Propiedades_de_la_consulta.xlsx"><i class="fas fa-file-excel"></i> </a>
    1. [Trabajar con columnas (dividir, nuevas y personalizadas)](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/16.TrabajarConColumnas.html) <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/15.Propiedades_de_la_consulta.xlsx"><i class="fas fa-file-excel"></i> </a>
 
-<!-->
+
+<!--
    1. [Casos prácticos](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-I/pages/CasosPracticos123.html)  1 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.1.Caso_1.xlsx"><i class="fas fa-file-excel"></i> </a>, 2 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.2.Caso_2.xlsx"><i class="fas fa-file-excel"></i> </a> y 3 <a href="/Curso-de-Herramientas-analiticas-para-auditoria-I/downloads/17.3.Caso_3.xlsx"><i class="fas fa-file-excel"></i> </a>
  -->
  
